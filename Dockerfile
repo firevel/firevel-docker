@@ -1,4 +1,4 @@
-FROM gcr.io/google-appengine/php73:staging
+FROM gcr.io/google-appengine/php73
 
 ENV DOCUMENT_ROOT=/var/www/app/public
 
