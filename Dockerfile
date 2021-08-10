@@ -9,5 +9,3 @@ RUN chmod +x /bin/cloud_sql_proxy
 RUN mkdir /cloudsql
 
 WORKDIR "/var/www/app/"
-
-CMD ["cloud_sql_proxy", "-projects=${PROJECT_ID}", "-dir=/cloudsql"]
