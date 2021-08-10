@@ -1,4 +1,4 @@
-# App Engine Flexible PHP 7.2 docker image for Firevel
+# App Engine Flexible PHP 7.3 docker image for Firevel
 
 Container image built to run Firevel locally. Based on [Docker image for the App Engine Flexible PHP runtime](https://github.com/GoogleCloudPlatform/php-docker).
 
